@@ -1,0 +1,21 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ML files
+models/*.pkl
+models/*.h5
+models/*.keras
+models/*.pth
+
+# Data
+data/raw/
+data/processed/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
